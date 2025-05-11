@@ -1,0 +1,4 @@
+baseURL = 'https://wellspent.net/'
+languageCode = 'en-us'
+title = 'Well Spent Blog'
+theme = "hextra"
