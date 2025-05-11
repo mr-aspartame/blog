@@ -1,0 +1,4 @@
+[submodule "wellspentblog/public"]
+	path = wellspentblog/public
+	url = https://github.com/mr-aspartame/wellspent.net.git
+	branch = main
